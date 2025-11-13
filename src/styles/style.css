@@ -1,0 +1,22 @@
+/* Reset dasar dan font global */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  background-color: #ecf0f1;
+  color: #333;
+}
+
+/* Layout utama aplikasi */
+main {
+  padding: 2rem;
+}
+
+.note-section h2 {
+  text-align: center;
+  color: #2c3e50;
+  margin-bottom: 2rem;
+}
